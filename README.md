@@ -1,1 +1,1 @@
-<img src="icons-languages/html-5.png" width=60 heigh=40>
+<img src="icons-languages/html-5.png" width=40 heigh=40>
