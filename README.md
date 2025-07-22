@@ -1,6 +1,3 @@
-<h1 align="left">Pedro Henrique Barbosa</h1>
-<p align="left">Desenvolvedor Front-End </p>
-
 ---
 
 ### 👨‍💻 Sobre mim
