@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Criando projetos pessoais com foco em tecnologias Web
-- 🧠 Sempre aprendendo e evoluindo como desenvolvedor Front-End
+- 🧠 Sempre aprendendo e evoluindo como desenvolvedor Front-End (Pretendoo se tornar Full-Stack)
 
 ---
 
