@@ -1,6 +1,5 @@
-<h1 align="center">Pedro Henrique</h1>
-
-<p align="center">Desenvolvedor Front-End apaixonado por JavaScript</p>
+<h1 align="center" font-weight="bold" text-transform="uppercase">Pedro Henrique Barbosa</h1>
+<p align="center">Desenvolvedor Front-End </p>
 
 ---
 
