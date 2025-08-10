@@ -13,7 +13,7 @@
 
 ### 🚀 Tecnologias que utilizo
 
-<div align="left"">
+<div align="center"">
 
   <img alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40" height="40" />
   <img alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40" height="40" />
@@ -22,6 +22,7 @@
   <img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="40" height="40" />
 
 </div>
+
 
 
 ---
@@ -36,4 +37,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
