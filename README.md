@@ -4,8 +4,8 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Criando projetos pessoais com foco em tecnologias Web
-- 📌 Front-End: apaixonado por interfaces bem feitas, acessíveis e modernas
-- 📌 Back-End: Loading...
+- 📌 Front-End: apaixonado por javascript e react.
+- 📌 Back-End: loading...
 - 🔍 Buscando aprendizado contínuo e aperfeiçoamento profissional
 
 ---
@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
