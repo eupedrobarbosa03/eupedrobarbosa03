@@ -23,10 +23,10 @@ O foco principal é oferecer uma interface simples, prática e funcional para o 
 
 ## 🛠 Tecnologias Utilizadas
 
-- React (biblioteca para construção da interface)
-- JavaScript (linguagem de programação)
-- CSS Modules (estilização modularizada)
-- Font Awesome (ícones para interação)
+- React
+- JavaScript
+- CSS Modules
+- Font Awesome
 
 ---
 
@@ -46,3 +46,4 @@ Contribuições são bem-vindas! Caso queira colaborar com melhorias ou correç�
 
 Obrigado por conferir o projeto!  
 Sinta-se livre para entrar em contato caso queira sugestões, dúvidas ou colaborações.
+
