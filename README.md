@@ -1,14 +1,5 @@
-<h1 align="center">
-  <a href="https://github.com/eupedrobarbosa03" target="_blank">Pedro Henrique</a> 🚀🧠
-</h1>
 
-<p align="center"><i>Desenvolvedor Front-End apaixonado por JavaScript</i></p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation">
-</p>
-
----
+<p align="left"><i>Desenvolvedor Front-End </i></p>
 
 ### 🧠 Sobre mim
 
@@ -30,7 +21,26 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eupedrobarbosa03&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eupedrobarbosa03&layout=compact&theme=transparent" />
+</div>
+
 ---
+
+### 🌍 Onde me encontrar
+
+<p align="center">
+  <a href="https://github.com/eupedrobarbosa03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eupedrobarbosa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
 </p>
