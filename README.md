@@ -24,7 +24,7 @@
 
 ### 🌍 Onde me encontrar
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/eupedrobarbosa03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
