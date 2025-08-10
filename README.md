@@ -1,4 +1,11 @@
-# 💰 Sistema de Controle de Despesas Pessoais
+# 💰 Expense Management (Gerenciamento de Despesas).
+
+---
+
+## 📂 Repositório e Deploy
+
+- Repositório GitHub: [https://github.com/eupedrobarbosa03/expense-management](https://github.com/eupedrobarbosa03/expense-management)  
+- Deploy no GitHub Pages: [https://eupedrobarbosa03.github.io/expense-management/](https://eupedrobarbosa03.github.io/expense-management/)
 
 ---
 
@@ -30,12 +37,6 @@ O foco principal é oferecer uma interface simples, prática e funcional para o 
 
 ---
 
-## 📂 Repositório e Deploy
-
-- Repositório GitHub: [https://github.com/eupedrobarbosa03/expense-management](https://github.com/eupedrobarbosa03/expense-management)  
-- Deploy no GitHub Pages: [https://eupedrobarbosa03.github.io/expense-management/](https://eupedrobarbosa03.github.io/expense-management/)
-
----
 
 ## 🤝 Contribuição
 
@@ -46,4 +47,5 @@ Contribuições são bem-vindas! Caso queira colaborar com melhorias ou correç�
 
 Obrigado por conferir o projeto!  
 Sinta-se livre para entrar em contato caso queira sugestões, dúvidas ou colaborações.
+
 
