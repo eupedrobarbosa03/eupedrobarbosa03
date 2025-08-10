@@ -13,12 +13,14 @@
 
 ### 🚀 Tecnologias que utilizo
 
-<div align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=#61DAFB" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<div align="left"">
+
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="40" height="40" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="40" height="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="40" height="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="40" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="40" height="40" />
+
 </div>
 
 
@@ -34,3 +36,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
