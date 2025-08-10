@@ -24,7 +24,7 @@
 
 ### 💻 Principais Projetos
 
-![Custom Badge](https://img.shields.io/badge/custom-Azul?style=flat&logo=&logoColor=blue)
+![Custom Badge](https://img.shields.io/badge/Todo-List-rosa?style=flat&logo=&logoColor=rosa)
 
 
 ### 🌍 Onde me encontrar
@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
