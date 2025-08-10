@@ -22,6 +22,12 @@
 
 ---
 
+### 💻 Principais Projetos
+
+<div style="background-color:#f9f9f9; border-left:4px solid #0366d6; padding:10px;">
+Este é um texto dentro de uma caixa personalizada.
+</div>
+
 ### 🌍 Onde me encontrar
 
 <p align="left">
@@ -32,6 +38,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
