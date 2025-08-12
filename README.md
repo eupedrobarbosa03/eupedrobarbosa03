@@ -24,7 +24,7 @@
 
 ### 💻 Principais Projetos
 
-- **Simple Calculator** — desenvolvido em **javascript**. 👉 [Deploy](https://github.com/eupedrobarbosa03/simple-calculator) 
+- **Simple Calculator** — desenvolvido em **javascript**. Sobre: Permite criar múltiplos cálculos. 👉 [Deploy](https://github.com/eupedrobarbosa03/simple-calculator) 
 
 ### 🌍 Onde me encontrar
 
@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
