@@ -25,12 +25,13 @@
 
 ### 💻 Principais Projetos
 
+- **Portfólio** — desenvolvido em html5, css3 e **javascript**. 👉 [Repositório](https://github.com/eupedrobarbosa03/portfolio);
 - **Simple Calculator** — desenvolvido em html5, css3 e **javascript**. 👉 [Repositório](https://github.com/eupedrobarbosa03/simple-calculator);
 - **Todo List** — desenvolvido em html5, css3 e **javascript**. 👉 [Repositório](https://github.com/eupedrobarbosa03/todo-list);
 - **Generator BoxShadow** — desenvolvido em css modules e **react.js**. 👉 [Repositório](https://github.com/eupedrobarbosa03/generator-boxShadow);
 - **Exepense Management** — desenvolvido em css modules e **react.js**. 👉 [Repositório](https://github.com/eupedrobarbosa03/expense-management);
 - **Postal Code Brazil** — desenvolvido em html5, css3 e **javascript**. 👉 [Repositório](https://github.com/eupedrobarbosa03/postal-code-brazil).
-- 📜 Quantidade de projetos totais, incluido os principais projetos: 12 projetos e 4 mini-projetos.
+- 📜 Quantidade de projetos totais, incluido os principais projetos: 13 projetos e 4 mini-projetos.
 
 ---
 
@@ -44,6 +45,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
