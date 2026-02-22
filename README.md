@@ -35,7 +35,7 @@
 - **Generator BoxShadow** — desenvolvido em css modules e **react.js**. 👉 [Repositório](https://github.com/eupedrobarbosa03/generator-boxShadow);
 - **Exepense Management** — desenvolvido em css modules e **react.js**. 👉 [Repositório](https://github.com/eupedrobarbosa03/expense-management);
 - **Postal Code Brazil** — desenvolvido em html5, css3 e **javascript**. 👉 [Repositório](https://github.com/eupedrobarbosa03/postal-code-brazil).
-- 📜 Quantidade de projetos totais, incluido os principais projetos: 15 projetos e 4 mini-projetos.
+- 📜 Quantidade de projetos totais, incluido os principais projetos: 1 portfólio, 14 projetos e 4 mini-projetos.
 
 ---
 
@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 
