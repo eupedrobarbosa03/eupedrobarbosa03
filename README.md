@@ -7,8 +7,8 @@
     return text;
   }
 
-  console.log(`Meu nome é Pedro, tenho 19 anos. Sou um cara apaixonado em tecnologia,
-  mundo dos códigos. Sou um desenvolvedor front-end com foco em se tornar full-stack mais à frente.`)
+  console.log(sobre(`Meu nome é Pedro, tenho 19 anos. Sou um cara apaixonado em tecnologia,
+  mundo dos códigos. Sou um desenvolvedor front-end com foco em se tornar full-stack mais à frente.`))
 
 ```
 
