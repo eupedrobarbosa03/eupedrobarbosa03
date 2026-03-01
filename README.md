@@ -32,9 +32,13 @@
   console.log(`
   Idade: ${oedro.idade},  
   dev: ${pedro.dev},  
-  projetoFavorito: ${pedro.projetoFavorito} - [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/),  
-  portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/)`)
+  projetoFavorito: ${pedro.projetoFavorito},  
+  portfólio: `Logo abaixo 🔥`
 ```
+
+[📁] Portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/).
+[⭐] Projeto Favorito: [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/).
+[📈] Quantidade de projetos desenvolvidos: 15.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
