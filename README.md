@@ -34,8 +34,8 @@
   Idade: ${oedro.idade},  
   dev: ${pedro.dev},  
   projetoFavorito: ${pedro.projetoFavorito} - [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/),  
-  portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/)  
-`)```
+  portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/)`)
+```
 
 ---
 
