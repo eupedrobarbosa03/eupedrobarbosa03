@@ -1,5 +1,5 @@
 ```html
-  <h1>Sobre mim 🧠</p>
+  <h1>Sobre mim 🧠</h1>
 ```
 
 ```javascript
