@@ -29,9 +29,6 @@
     tecnologias: ["html", "css", "javascript", "typescript", "react", "git", "vscode"];
   }
 
-```
-
-```typescript
   console.log(`
   Idade: ${oedro.idade},  
   dev: ${pedro.dev},  
