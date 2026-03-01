@@ -17,14 +17,14 @@
     idade: number;
     dev: string;
     projetoFavorito: string;
-    portfólio;
+    portfólio: string;
   }
 
   const pedro: Pedro = {
     idade: 19,
     dev: `Desenvolvedor Front-End`;
     projetoFavorito: `Chat-bph`,
-    portfólio: https://eupedrobarbosa03.github.io/portfolio/
+    portfólio: `https://eupedrobarbosa03.github.io/portfolio/`
   }
 
 ```
