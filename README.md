@@ -5,10 +5,10 @@
 ```javascript
   function sobre(text) {
     return text;
-  }
+  };
 
   console.log(sobre(`Meu nome é Pedro, tenho 19 anos. Sou um cara apaixonado em tecnologia,
-  mundo dos códigos. Sou um desenvolvedor front-end com foco em se tornar full-stack mais à frente.`))
+  mundo dos códigos. Sou um desenvolvedor front-end com foco em se tornar full-stack mais à frente.`));
 
 ```
 
@@ -19,14 +19,14 @@
     projetoFavorito: string;
     portfólio: string;
     tecnologias: string[];
-  }
+  };
 
   const pedro: Pedro = {
     idade: 19,
     dev: `Desenvolvedor Front-End`;
     projetoFavorito: `Chat-bph`,
     portfólio: `https://eupedrobarbosa03.github.io/portfolio/`,
-    tecnologias: ["html", "css", "javascript", "typescript", "react", "git", "vscode"];
+    tecnologias: ["html", "css", "javascript", "typescript", "react", "git", "vscode"]
   };
 ```
 
