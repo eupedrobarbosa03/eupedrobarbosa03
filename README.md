@@ -18,13 +18,15 @@
     dev: string;
     projetoFavorito: string;
     portfólio: string;
+    tecnologias: string[];
   }
 
   const pedro: Pedro = {
     idade: 19,
     dev: `Desenvolvedor Front-End`;
     projetoFavorito: `Chat-bph`,
-    portfólio: `https://eupedrobarbosa03.github.io/portfolio/`
+    portfólio: `https://eupedrobarbosa03.github.io/portfolio/`,
+    tecnologias: ["html", "css", "javascript", "typescript", "react", "git", "vscode"];
   }
 
 ```
@@ -37,17 +39,7 @@
   portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/)`)
 ```
 
----
-
-## 📊 Sobre mim
-
-- 🔥 **Projetos desenvolvidos:** 15  
-- 🌐 **Portfólio:**  
-  https://eupedrobarbosa03.github.io/portfolio/  
-- ⭐ **Projeto principal:**  
-  [chat-bph](https://eupedrobarbosa03.github.io/portfolio/)
-
----
+--- 
 
 ## Tecnologias 💻
 
