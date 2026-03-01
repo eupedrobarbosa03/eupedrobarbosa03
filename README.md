@@ -37,9 +37,9 @@
 ```
 
 <p align="center>
-  <p>[📁] Portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/).</p>
-  <p>[⭐] Projeto Favorito: [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/).</p>
-  <p>[📈] Quantidade de projetos desenvolvidos: 15.</p>
+  <div>[📁] Portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/).</div>
+  <div>[⭐] Projeto Favorito: [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/).</div>
+  <div>[📈] Quantidade de projetos desenvolvidos: 15.</div>
 </p>
 
 <p align="center">
