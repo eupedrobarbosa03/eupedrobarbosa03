@@ -2,7 +2,7 @@
   <h1>Sobre mim 🧠</p>
 ```
 
-```js
+```javascript
   function sobre(text) {
     return text;
   }
@@ -12,7 +12,7 @@
 
 ```
 
-```ts
+```typescript
   interface Pedro {
     idade: number;
     dev: string;
@@ -24,10 +24,18 @@
     idade: 19,
     dev: `Desenvolvedor Front-End`;
     projetoFavorito: `Chat-bph`,
-    Portfólio: https://eupedrobarbosa03.github.io/portfolio/
+    portfólio: https://eupedrobarbosa03.github.io/portfolio/
   }
 
 ```
+
+console.log(`  
+  Idade: ${oedro.idade},  
+  dev: ${pedro.dev},  
+  projetoFavorito: ${pedro.projetoFavorito} - [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/),  
+  portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/)  
+  
+`)
 
 ---
 
