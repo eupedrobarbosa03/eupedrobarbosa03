@@ -27,13 +27,7 @@
     projetoFavorito: `Chat-bph`,
     portfólio: `https://eupedrobarbosa03.github.io/portfolio/`,
     tecnologias: ["html", "css", "javascript", "typescript", "react", "git", "vscode"];
-  }
-
-  console.log(`
-  Idade: ${oedro.idade},  
-  dev: ${pedro.dev},  
-  projetoFavorito: ${pedro.projetoFavorito},  
-  portfólio: `Logo abaixo 🔥`
+  };
 ```
 
 ---
