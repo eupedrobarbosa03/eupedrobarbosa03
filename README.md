@@ -1,8 +1,33 @@
-# 👋 Olá, eu sou o Pedro!
+```html
+  <h1>Sobre mim 🧠</p>
+```
 
-🎯 19 anos  
-💻 Apaixonado por tecnologia e pelo mundo dos códigos  
-🚀 Desenvolvedor **Front-End**, com foco em me tornar **Full-Stack**
+```js
+  function sobre(text) {
+    return text;
+  }
+
+  console.log(`Meu nome é Pedro, tenho 19 anos. Sou um cara apaixonado em tecnologia,
+  mundo dos códigos. Sou um desenvolvedor front-end com foco em se tornar full-stack mais à frente.`)
+
+```
+
+```ts
+  interface Pedro {
+    idade: number;
+    dev: string;
+    projetoFavorito: string;
+    portfólio;
+  }
+
+  const pedro: Pedro = {
+    idade: 19,
+    dev: `Desenvolvedor Front-End`;
+    projetoFavorito: `Chat-bph`,
+    Portfólio: https://eupedrobarbosa03.github.io/portfolio/
+  }
+
+```
 
 ---
 
@@ -16,7 +41,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias 💻
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
@@ -24,14 +49,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </p>
 
 ---
-
-## 🛠️ Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</p>
