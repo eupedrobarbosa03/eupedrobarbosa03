@@ -1,7 +1,3 @@
-```html
-  <h1>Sobre mim 🧠</h1>
-```
-
 ```typescript
 
 type About = {
