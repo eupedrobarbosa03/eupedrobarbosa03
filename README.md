@@ -63,7 +63,13 @@ console.log(projects)
 
 ---
 
-[📁] Portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/).  
-[⭐] Projeto Favorito: [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/).  
-[📈] Quantidade de projetos desenvolvidos: 15.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/eupedrobarbosa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://eupedrobarbosa03.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
