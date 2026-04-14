@@ -38,14 +38,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-[📁] Portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/).  
-[⭐] Projeto Favorito: [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/).  
-[📈] Quantidade de projetos desenvolvidos: 15.  
-
---- 
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake-dark.svg">
@@ -53,3 +45,10 @@
     <img alt="github contribution grid snake animation" src="https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+---
+
+[📁] Portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/).  
+[⭐] Projeto Favorito: [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/).  
+[📈] Quantidade de projetos desenvolvidos: 15.  
+
