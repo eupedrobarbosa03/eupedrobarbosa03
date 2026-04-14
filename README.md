@@ -61,8 +61,6 @@ console.log(projects)
   </picture>
 </p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/eupedrobarbosa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -72,4 +70,3 @@ console.log(projects)
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
