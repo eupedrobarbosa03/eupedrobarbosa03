@@ -2,32 +2,51 @@
   <h1>Sobre mim 🧠</h1>
 ```
 
-```javascript
-  function sobre(text) {
-    return text
-  };
-
-  console.log(sobre(`Meu nome é Pedro, tenho 19 anos. Sou um cara apaixonado em tecnologia,
-  mundo dos códigos. Sou um desenvolvedor front-end com foco em se tornar full-stack mais à frente.`));
-
-```
-
 ```typescript
-  interface Pedro {
-    idade: number;
-    dev: string;
-    projetoFavorito: string;
-    portfólio: string;
-    tecnologias: string[];
-  };
 
-  const pedro: Pedro = {
-    idade: 19,
-    dev: `Desenvolvedor Front-End`;
-    projetoFavorito: `Chat-bph`,
-    portfólio: `https://eupedrobarbosa03.github.io/portfolio/`,
-    tecnologias: ["html", "css", "javascript", "typescript", "react", "git", "vscode"]
-  };
+type About = {
+    name: string;
+    age: number;
+    technologies: string[]
+    more: string;
+};
+
+type FavoriteProject = {
+    title: string;
+    about: string;
+    technologies: string[];
+};
+
+
+const about: About = {
+    name: "Pedro Henrique",
+    age: 20,
+    technologies: ["Html", "Css", "Javascript", "Typescript", "React", "Git"],
+    more: "Sou um jovem desenvolvedor front-end apaixonado por typescript e react. Neste início de carreira o foco é front-end. Entretanto, ao passar do tempo, quero me consolidar um desenvolvedor full-stack."
+};
+
+const projects: FavoriteProject[] = [
+    {
+        title: "Chat-bph",
+        about: "Um chat adaptativo e interativo que fala sobre mim.",
+        technologies: ["typescript"]
+    },
+    {
+        title: "Bank-ts",
+        about: "Banco fictício que simula operações bancárias",
+        technologies: ["typescript"]
+    },
+    {
+        title: "Generator Password 2",
+        about: "Um gerador de senhas fortes e seguras.",
+        technologies: ["typescript"]
+    }
+];
+
+console.log(about);
+console.log(projects)
+
+
 ```
 
 <p align="center">
