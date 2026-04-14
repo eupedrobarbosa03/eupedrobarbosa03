@@ -4,7 +4,7 @@
 
 ```javascript
   function sobre(text) {
-    return text;
+    return text
   };
 
   console.log(sobre(`Meu nome é Pedro, tenho 19 anos. Sou um cara apaixonado em tecnologia,
