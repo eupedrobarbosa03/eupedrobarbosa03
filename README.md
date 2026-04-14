@@ -50,4 +50,14 @@
 
 --- 
 
-![Snake animation](https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eupedrobarbosa03&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=eupedrobarbosa03&theme=tokyonight)
