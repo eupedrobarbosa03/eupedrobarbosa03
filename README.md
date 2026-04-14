@@ -47,3 +47,9 @@
 [📁] Portfólio: [portfólio](https://eupedrobarbosa03.github.io/portfolio/).  
 [⭐] Projeto Favorito: [chat-bph](https://eupedrobarbosa03.github.io/chat-bph/).  
 [📈] Quantidade de projetos desenvolvidos: 15.  
+
+--- 
+
+## 🐍 Jogo da Cobrinha
+
+![Snake animation](https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake.svg)
