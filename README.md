@@ -50,6 +50,4 @@
 
 --- 
 
-## 🐍 Jogo da Cobrinha
-
 ![Snake animation](https://github.com/eupedrobarbosa03/eupedrobarbosa03/blob/output/github-contribution-grid-snake.svg)
