@@ -1,5 +1,4 @@
 ```typescript
-
 type About = {
     name: string;
     age: number;
@@ -12,7 +11,6 @@ type FavoriteProject = {
     about: string;
     technologies: string[];
 };
-
 
 const about: About = {
     name: "Pedro Henrique",
