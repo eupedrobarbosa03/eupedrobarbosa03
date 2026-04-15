@@ -19,7 +19,7 @@ const about: About = {
     more: "Sou um jovem desenvolvedor front-end apaixonado por typescript e react. Neste início de carreira o foco é front-end. Entretanto, ao passar do tempo, quero me consolidar um desenvolvedor full-stack."
 };
 
-const projects: FavoriteProject[] = [
+const favoritesProjects: FavoriteProject[] = [
     {
         title: "Chat-bph",
         about: "Um chat adaptativo e interativo que fala sobre mim.",
@@ -36,10 +36,6 @@ const projects: FavoriteProject[] = [
         technologies: ["typescript"]
     }
 ];
-
-console.log(about);
-console.log(projects)
-
 
 ```
 
