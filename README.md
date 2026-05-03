@@ -68,6 +68,4 @@ Já desenvolvi **14 projetos**, com destaque para:
 
 ---
 
-*<p align="center">
-  ⭐ Sempre buscando evolução e novos desafios.
-</p>*
+<p align="center"><i>⭐ Sempre buscando evolução e novos desafios.</i></p>
