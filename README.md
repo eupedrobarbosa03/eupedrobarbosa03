@@ -1,4 +1,4 @@
-<img src="banner/banner-languages.png" height="300" width="100%">
+<img src="banner/banner-languages.png" height="300" width="100">
 
 ## 👋 Olá, eu sou o Pedro Henrique
 
