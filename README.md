@@ -44,7 +44,7 @@ Já desenvolvi **14 projetos**, com destaque para:
 - Se tornar um desenevolvedor **full-stack**;
 - Se aprimorar cada vez mais em **react** e **typescrip**;
 - Criar projetos cada vez mais completos e profissionais;
-- Sempre que possível desenvolver uma segunda versão para algum projeto.
+- Sempre que possível desenvolver uma segunda versão melhorada para projetos.  
 
 ---
 
