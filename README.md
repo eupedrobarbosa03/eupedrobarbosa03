@@ -1,43 +1,49 @@
-```typescript
-type About = {
-    name: string;
-    age: number;
-    technologies: string[]
-    more: string;
-};
+# 👋 Olá, eu sou o Pedro Henrique
 
-type FavoriteProject = {
-    title: string;
-    about: string;
-    technologies: string[];
-};
+💻 Desenvolvedor Front-end em constante evolução  
+🚀 Focado em me tornar um desenvolvedor Full Stack  
 
-const about: About = {
-    name: "Pedro Henrique",
-    age: 20,
-    technologies: ["Html", "Css", "Javascript", "Typescript", "React", "Git"],
-    more: "Sou um jovem desenvolvedor front-end apaixonado por typescript e react. Neste início de carreira o foco é front-end. Entretanto, ao passar do tempo, quero me consolidar um desenvolvedor full-stack."
-};
+---
 
-const favoritesProjects: FavoriteProject[] = [
-    {
-        title: "Chat-bph",
-        about: "Um chat adaptativo e interativo que fala sobre mim.",
-        technologies: ["typescript"]
-    },
-    {
-        title: "Bank-ts",
-        about: "Banco fictício que simula operações bancárias",
-        technologies: ["typescript"]
-    },
-    {
-        title: "Generator Password 2",
-        about: "Um gerador de senhas fortes e seguras.",
-        technologies: ["typescript"]
-    }
-];
+## 🧠 Sobre mim
 
-```
+Sou um desenvolvedor apaixonado por tecnologia e evolução constante.  
+Atualmente atuo no front-end, criando interfaces simples, modernas, funcionais e bem estruturadas.
+
+Tenho como objetivo expandir meus conhecimentos para o back-end (mais à frente) e me tornar um desenvolvedor full stack completo.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript  
+- React  
+- Git  
+
+---
+
+## 📂 Projetos
+
+Já desenvolvi **14 projetos**, com destaque para:
+
+- 💼 **Portfólio** — Apresentação dos meus projetos e habilidades;  
+- 🏦 **Bank-TS** — Sistema bancário utilizando TypeScript;  
+- 💬 **Chat-BPH** — Aplicação de chat em tempo real;  
+- 🔐 **Generator Password 2** — Gerador de senhas seguro e personalizável.  
+
+---
+
+## 📈 Objetivos
+
+- Se tornar um desenevolvedor **full-stack**;
+- Se aprimorar cada vez mais em **react** e **typescrip**;
+- Criar projetos cada vez mais completos e profissionais;
+- Sempre que possível desenvolver uma segunda versão para algum projeto.
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,3 +72,7 @@ const favoritesProjects: FavoriteProject[] = [
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
+---
+
+⭐ *Sempre buscando evolução e novos desafios.*
