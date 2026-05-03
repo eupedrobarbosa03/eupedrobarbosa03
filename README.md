@@ -1,3 +1,5 @@
+<img src="banner/banner-languages.png">
+
 ## 👋 Olá, eu sou o Pedro Henrique
 
 💻 Desenvolvedor Front-end em constante evolução;  
