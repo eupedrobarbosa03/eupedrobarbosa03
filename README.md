@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Pedro Henrique  
 💻 Desenvolvedor Front-end em constante evolução;  
-📗 Estudante de **Análise e desenvolvimento de sistemas**;  
+🎓 Estudante de **Análise e desenvolvimento de sistemas**;  
 🚀 Focado em me tornar um desenvolvedor front-end completo.  
 
 ---
