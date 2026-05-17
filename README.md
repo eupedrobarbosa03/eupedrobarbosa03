@@ -35,7 +35,7 @@ Já desenvolvi **15 projetos**, com destaque para:
 - 🏦 **Bank-TS** — Sistema bancário utilizando TypeScript;  
 - 💬 **Chat-BPH** — Aplicação de chat em tempo real;  
 - 🔐 **Generator Password 2** — Gerador de senhas seguro e personalizável;
-- 💪 **Academy** - Gerenciador de academia.
+- 💪 **Academy** — Gerenciador de academia.
 
 ---
 
