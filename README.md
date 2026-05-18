@@ -31,11 +31,10 @@ Tenho como objetivo expandir meus conhecimentos para o back-end (mais à frente)
 
 Já desenvolvi **15 projetos**, com destaque para:
 
-- 💼 **Portfólio** — Apresentação dos meus projetos e habilidades;  
+- 💪 **Academy** — Gerenciador de academia;  
+- - 💬 **Chat-BPH** — Aplicação de chat em tempo real;   
 - 🏦 **Bank-TS** — Sistema bancário utilizando TypeScript;  
-- 💬 **Chat-BPH** — Aplicação de chat em tempo real;  
-- 🔐 **Generator Password 2** — Gerador de senhas seguro e personalizável;
-- 💪 **Academy** — Gerenciador de academia.
+- 🔐 **Generator Password 2** — Gerador de senhas seguro e personalizável.
 
 ---
 
