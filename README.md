@@ -29,7 +29,7 @@ Tenho como objetivo expandir meus conhecimentos para o back-end (mais à frente)
 
 ## 📂 Projetos
 
-Já desenvolvi **15 projetos**, com destaque para:
+Já desenvolvi **8 projetos**, com destaque para:
 
 - 💪 **Academy** — Gerenciador de academia;  
 - 💬 **Chat-BPH** — Aplicação de chat em tempo real;   
