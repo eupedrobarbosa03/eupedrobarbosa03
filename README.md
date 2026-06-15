@@ -35,7 +35,7 @@ Já desenvolvi **9 projetos**, com destaque para:
 - 💬 **Chat-BPH** — Aplicação de chat em tempo real;   
 - 🏦 **Bank-TS** — Sistema bancário utilizando TypeScript;  
 - 🔐 **Generator Password 2** — Gerador de senhas seguro e personalizável;
-- 📍 **LocalizaCEP** - Aplicação de retorno de dados atráves de um CEP.
+- 📍 **LocalizaCEP** - Aplicação de retorno de dados através de um CEP.
 
 ---
 
