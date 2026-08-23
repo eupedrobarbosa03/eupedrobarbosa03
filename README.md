@@ -31,6 +31,7 @@ Tenho como objetivo expandir meus conhecimentos para o back-end (mais à frente)
 
 Já desenvolvi **8 projetos**, com destaque para:
 
+- 🌐 **Portfólio** — Meu portfólio;  
 - 💪 **Academy** — Gerenciador de academia;  
 - 💬 **Chat-BPH** — Aplicação de chat em tempo real;   
 - 🏦 **Bank-TS** — Sistema bancário utilizando TypeScript;  
