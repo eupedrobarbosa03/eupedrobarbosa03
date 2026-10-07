@@ -1,5 +1,6 @@
 ## 👋 Olá, eu sou o Pedro Henrique  
 💻 Desenvolvedor Front-end em constante evolução;  
+⭐ Preparando-se para tornar-se desenvolvedor Back-end;  
 🎓 Estudante de **Análise e desenvolvimento de sistemas**;  
 🚀 Focado em me tornar um desenvolvedor front-end completo.  
 
@@ -9,7 +10,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e evolução constante.  
 Atualmente atuo no front-end, criando interfaces simples, modernas, funcionais e bem estruturadas.
-Tenho como objetivo expandir meus conhecimentos para o back-end (mais à frente) e me tornar um desenvolvedor full stack completo.
+Atualmente estou aprendendo back-end.
 
 ---
 
@@ -23,6 +24,7 @@ Tenho como objetivo expandir meus conhecimentos para o back-end (mais à frente)
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
@@ -43,7 +45,7 @@ Já desenvolvi **8 projetos**, com destaque para:
 ## 📈 Objetivos
 
 - Se tornar um desenevolvedor **full-stack**;
-- Se aprimorar cada vez mais em **react** e **typescrip**;
+- Se aprimorar cada vez mais em **react** e **typescript**;
 - Criar projetos cada vez mais completos e profissionais;
 - Sempre que possível desenvolver uma segunda versão melhorada para projetos.  
 
