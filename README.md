@@ -64,7 +64,7 @@ Já desenvolvi **8 projetos**, com destaque para:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://eupedrobarbosa03.github.io/portfolio/">
+  <a href="https://eupedrobarbosa03.github.io/meu-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
